@@ -1,0 +1,46 @@
+
+
+html,
+body{
+
+    height: 100%;
+    font-size: 1rem;
+
+}
+
+
+.gradient{
+
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 9%, rgba(59, 148, 96, 1) 51%, rgba(43, 43, 20, 1) 100%);
+
+}
+
+.card img{
+
+    height: 200px;
+    object-fit: cover;
+
+}
+
+
+.pagina-laranja{
+
+background: #2A7B9B;
+background: linear-gradient(180deg, rgba(42, 123, 155, 1) 0%, rgba(255, 187, 0, 1) 40%, rgba(43, 43, 20, 1) 100%);
+
+}
+
+.card {
+
+    width: 250%;
+    margin: 20px;
+
+}
+
+.card-img-top {
+
+    height: 250px;
+    object-fit: cover;
+
+}
